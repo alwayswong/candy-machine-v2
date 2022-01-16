@@ -1,4 +1,4 @@
-# Candy Machine V2 Frontend
+# Candy Machine V2 Frontend 
 
 This is a barebones implementation of Candy Machine V2 frontend, intended for users who want to quickly get started selling Solana NFT's. It DOES NOT include captcha yet - we plan to make this feature available in a future release. Some code has been ported from the Fair Launch Protocol frontend in the Metaplex repo. This has been tested with candy machine programs on both devnet and mainnet-beta.
 
